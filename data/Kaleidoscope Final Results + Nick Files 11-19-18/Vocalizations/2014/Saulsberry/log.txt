@@ -1,0 +1,31 @@
+KALEIDOSCOPE 4.1.0a 11/13/18 16:40:19
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140814_084351.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140814_145646.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140815_114255.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140815_175550.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140816_053000.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140816_114255.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140816_175550.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140817_053000.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140817_114255.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140817_175550.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140818_053000.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140818_114255.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140818_175550.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140819_053000.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140819_114255.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140819_175550.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140820_053000.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\20140820_175553.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB A\Single Wav test file\20140815_053000.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB B\20140820_114255.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB B\20140821_053000.wav rate 24000 chan 2
+Error: C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB B\20140821_053000.wav: read failed
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\21 August 2014 SB B\20140821_064135.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\23 August 2014 SB A\20140821_163758.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\23 August 2014 SB A\20140821_172125.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\23 August 2014 SB A\20140822_053000.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\23 August 2014 SB A\20140822_114257.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\23 August 2014 SB A\20140822_175554.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\23 August 2014 SB A\20140823_053000.wav rate 24000 chan 2
+INPUT FILE : C:\Users\Susan&Lee\Desktop\NextCluster\New folder\Saulsberry\23 August 2014 SB A\20140823_114256.wav rate 24000 chan 2
